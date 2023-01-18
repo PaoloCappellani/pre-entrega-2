@@ -7,8 +7,21 @@ ul {
 
 }
 
-
-
+.paolo {
+    background-color:bisque ;
+    color: black;
+    font-family:'Times New Roman', Times, serif;
+    
+}
+.encabezado {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+.primer_parrafo {
+    font-family: 'Times New Roman', Times, serif;
+    
+    
+}
 
 
 
@@ -18,6 +31,7 @@ div {
     color: black;
     font-style: normal;
     align-items: center;
+    font-family: 'Times New Roman', Times, serif;
     
 }
 
@@ -68,7 +82,7 @@ p{
 
 footer{ 
     color: black;
-    text-align: right;
+    text-align: center;
     list-style: none;
     display: block;
     font-style: italic;
